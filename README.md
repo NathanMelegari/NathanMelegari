@@ -1,75 +1,72 @@
-# Nathan de Oliveira Melegari Bueno
-**C/C++ Software Engineer | Linux Systems | Go**
+# Nathan Melegari
+**Systems Programmer | Linux Enthusiast | C/C++ & Go**
 
-Software developer focused on systems programming, networking and low-level software development.
-Building projects with C/C++, Linux, POSIX APIs and socket-based client-server architectures, with interest in infrastructure, distributed systems and open-source software.
-Also exploring graphics programming with SDL2/OpenGL.
+Developer with a passion for low-level systems, networking, and Linux internals.
+I write performance-critical code and understand how operating systems work under the hood.
 
 ---
 
 ## 📞 Contact
-**Tel:** +55 (22) 99214-4735 \
 **Email:** contactnathanmelegari@gmail.com
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-**Languages:** C/C++ | Go \
-**Tools:** Git | GDB | Linux (Ubuntu/Debian) | GCC/Clang | Cmake | Qt \
-**Interests:** POSIX Sockets | TCP/IP | System Programming | Embedded Systems (RTOS & Linux) \
+**Languages:** C | C++ | Go | Python | Bash
+**OS:** Linux (Debian/Ubuntu) — daily driver and deployment target
+**Tools:** Git | GCC/Clang | GDB | CMake | Make | Systemd
+**Networking:** POSIX Sockets | TCP/IP | IPv4/IPv6
+**Interests:** System Programming | Linux Internals | Client-Server Architecture | gRPC
 
 ---
 
 ## 📂 Projects
-### [Mispot](https://github.com/NathanMelegari/mispot.git)
-Self-hosted storage cloud server for files.
-- TCP server in C++ with IPv6 support
-- Upload/download/delete/list files
-- Client-server arquitecture
 
-### [Bolderkey](https://github.com/NathanMelegari/bolderkey-engine.git)
-Passwords generator, with encrypt and insert into a file
+### [Mispot](https://github.com/NathanMelegari/mispot.git)
+Self-hosted cloud storage server in C++.
+- Multi-threaded TCP server with IPv6 support
+- Upload/download/delete/list operations
+- Client-server architecture with custom protocol
 
 ### [Lamon Monitor](https://github.com/NathanMelegari/lamon-monitor.git)
-An APIs monitor (latency, errors, requisitions number)
+API monitoring tool written in Go.
+- Collects latency, error rate, and request volume metrics
+- Lightweight and designed for server deployment
+
+### [Bolderkey](https://github.com/NathanMelegari/bolderkey-engine.git)
+Password generator and local encrypted storage.
+- CLI tool with file-based persistence
 
 ---
 
-## 🎯 Focus Area
-- Linux Systems Programming (POSIX, sockets, processes)
-- Server Development in C/C++ and Go
-- Cloud Infrastructure and high-performance systems
+## 🎯 What I Do
+
+- Write system services in C/C++ and Go for Linux
+- Build TCP/IP client-server applications from scratch
+- Understand process management, signals, file I/O, and memory
+- Deploy and manage services with Systemd
+- Debug with GDB, strace, and logs
 
 ---
 
 ## 📚 Currently Learning
-- Embedded Systems (Raspberry Pi, STM32)
-- System Design & Arquitecture
-- Go for cloud-native applications
+
+- More Linux internals (procfs, cgroups, namespaces)
+- gRPC and protocol buffers
+- Deeper Go for backend services
 
 ---
 
 ## 🏅 Certifications
-- Linux Operating System (ADA Tech)
-- Computing Network (Cursa/Bóson Treinamentos)
+
+- Linux Operating System — ADA Tech
+- Computer Networking — Cursa/Bóson Treinamentos
+- Linux Server Management — Linux Tutorial
 
 ---
 
 ## 🌐 Languages
+
 - Portuguese (native)
-- English (basic, improving)
-<!--
-**NathanMelegari/NathanMelegari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- English (reading technical docs, actively improving)
